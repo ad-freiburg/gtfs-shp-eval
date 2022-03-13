@@ -3,7 +3,7 @@
 Evaluate the quality of large sets of GTFS feeds.
 
 ## 1. Installation
-    $ go get github.com/patrickbr/gtfstidy
+    $ go get github.com/ad-freiburg/gtfs-shp-eval
 
 ## 2. Usage
 See
